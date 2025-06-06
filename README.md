@@ -21,9 +21,7 @@ The project analyzes credit card transactions to identify and visualize fraudule
 
 - Interactive map showing fraud incidents by state  
 - Time-series line charts for fraud trends by month  
-- Fraud category breakdown (e.g., "Card Not Present")  
 - Slicers for filtering by state, month, and merchant  
-- Clear selection button to reset filters  
 
 ## Key Metrics
 
